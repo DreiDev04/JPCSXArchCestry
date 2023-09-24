@@ -9,7 +9,6 @@ function App() {
     <div className="App">
       <Header />
       <HeroSection />
-      {/* Add more sections and components as needed */}
     </div>
   );
 }
